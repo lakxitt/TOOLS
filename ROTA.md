@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px;">
-  <img src="static/rota_logo.png" alt="rota" width="100px">
+ 
   <h1 align="center">
   Rota - Proxy Rotation Platform
   </h1>
@@ -14,8 +14,6 @@
 <a href="https://github.com/alpkeskin/rota/actions"><img src="https://img.shields.io/github/actions/workflow/status/alpkeskin/rota/release.yaml"></a>
 </p>
 
-
-![Khipu Screenshot](static/dashboard.png)
 
 
 ## 🎯 Overview
